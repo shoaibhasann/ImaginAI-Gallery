@@ -1,4 +1,5 @@
 import {surpriseMePrompts} from '../constants';
+import FileSaver from 'file-saver';
 
 
 export function getRandomPrompt(prompt) {
@@ -9,4 +10,8 @@ export function getRandomPrompt(prompt) {
         return getRandomPrompt(prompt);
     }
     return randomPrompt
+}
+
+export function downloadImage(_id,photo){
+    FileSaver.saveAs(photo, `ImaginAi-Gallery-${_id}.png`);
 }
