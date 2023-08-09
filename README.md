@@ -4,7 +4,7 @@ Welcome to ImaginAI Gallery! This project showcases a stunning collection of AI-
 
 ## Live Preview
 
-Visit the [ImaginAI Gallery Live Preview](https://imagin-ai-gallery-qiglashds-shoaibhasann.vercel.app/) to experience the project in action!
+Visit the [ImaginAI Gallery Live Preview](https://imagin-ai-gallery-a2dts4qx3-shoaibhasann.vercel.app/) to experience the project in action!
 
 
 ## Features
